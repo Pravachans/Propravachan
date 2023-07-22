@@ -14,8 +14,7 @@ def load_lottieurl(url):
 
 
 
-# ---- LOAD ASSETS ----
-lottie_coding = load_lottieurl("https://assets3.lottiefiles.com/packages/lf20_3fuksula.json")
+
 
 
 

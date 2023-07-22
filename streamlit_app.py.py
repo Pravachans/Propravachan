@@ -49,7 +49,7 @@ with st.container():
         
 
 # ---- PROJECTS ----
-with st.container():
+    with st.container():
     st.write("---")
     st.header("My Projects")
     st.write("##")

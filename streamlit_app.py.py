@@ -45,7 +45,14 @@ with st.container():
         
 
 # ---- PROJECTS ----
+with st.container():
+    st.write("---")
+    st.header("My Projects")
+    st.write("##")
+    image_column, text_column = st.columns((1, 2))
 
+        # insert image
+with text_column:
 st.write("---")
     st.header("My Projects")
     st.write("##")
